@@ -3,6 +3,6 @@
 
 ## Compiling and Running: 
 
-###**To Compile:** g++ -Wall proj1.cpp -o proj1
+**To Compile:** g++ -Wall proj1.cpp -o proj1
 
-###**To Run:** ./proj1
+**To Run:** ./proj1
